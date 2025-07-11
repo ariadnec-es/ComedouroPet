@@ -1,3 +1,5 @@
+**O projeto foi desenvolvido por Ariadne Silva, Arthur Queiroz e César Miranda**
+
 # ComedouroPet
 O projeto visa desenvolver um sistema de automação de alimentação para animais domésticos utilizando um controlador **ATmega328** com linguagem **C**. O acesso aos pinos será realizado diretamente por meio de **registradores**, garantindo maior controle sobre as operações do microcontrolador.
 
@@ -11,6 +13,10 @@ Além disso, o projeto explora conceitos como:
 - Interface com o **usuário**
 
 Com isso, pretende-se oferecer uma solução prática e eficiente para os **tutores** e promover o **bem-estar dos animais**.
+
+<p align="center">
+  <img src="./imagem7.jpg" alt="QR code com o link do projeto"><br>
+</p>
 
 ## 1. INTRODUÇÃO
 
@@ -60,7 +66,7 @@ Tabela 01 - Componentes do circuito
 A figura abaixo ilustra a montagem física do circuito no simulador Tinkercad, utilizando a placa Arduino Uno R3 como núcleo de controle. O sistema foi desenvolvido para atender aos requisitos de automação de um comedouro para animais de estimação, integrando sensores, atuadores e interface de usuário.
 
 <p align="center">
-  <img src="./imagem1.jpeg" alt="Montagem do circuito no simulador Tinkercad" width="600"><br>
+  <img src="./imagem1.jpeg" alt="Montagem do circuito no simulador Tinkercad"><br>
   <strong>Figura 01</strong> - Montagem do circuito no simulador Tinkercad<br>
   <em>Fonte: www.tinkercad.com</em>
 </p>
@@ -294,6 +300,10 @@ Durante o processo de simulação ele se comportou conforme o esperado, porém a
 Através da realização deste projeto, foi possível pôr em prática a teoria de conceitos essenciais vistos em sala de aula e laboratório, como a conversão analógico-digital para a leitura de sensores, modulação por largura de pulso para a simulação de atuadores e o uso de interrupção para tarefas periódicas.
 
 O ambiente de simulação Tinkercad apesar de ter demonstrado algumas limitações, sendo necessário aplicar modificações no projeto para simular os componentes indispensáveis, permitiu validar o ciclo completo do projeto, desde a montagem do circuito até a depuração do código, resultando em um protótipo que operou conforme o esperado e demonstrou a viabilidade da solução proposta.
+
+<p align="center">
+  <img src="./imagem6.jpg" alt="QR code com o link do projeto"><br>
+</p>
 
 ## 5. ANEXOS
 Anexo com link para o projeto no Tinkercad :
