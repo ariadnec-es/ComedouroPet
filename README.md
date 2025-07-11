@@ -313,3 +313,11 @@ Anexo com link para o projeto no Tinkercad :
   <strong>Figura 05</strong> - QR code com o link do projeto<br>
   <em>Fonte: www.canva.com</em>
 </p>
+
+Vídeos de Simulação: 
+ - Simulação Manual.mp4
+ - Simulação Automática.mp4
+
+
+
+
