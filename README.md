@@ -66,7 +66,7 @@ A figura abaixo ilustra a montagem física do circuito no simulador Tinkercad, u
 </p>
 
 <p align="center">
-  <img src="./imagem2.jpeg" alt="Montagem do circuito no simulador Tinkercad" width="600"><br>
+  <img src="./imagem2.jpeg" alt="Montagem do circuito no simulador Tinkercad"><br>
   <strong>Figura 02</strong> - Visão Esquemática<br>
   <em>Fonte: www.tinkercad.com</em>
 </p>
@@ -78,7 +78,7 @@ A montagem do circuito foi realizada na plataforma Tinkercad e teve como base o 
 Para um melhor entendimento, criamos um fluxograma que ilustra o funcionamento lógico do sistema embarcado desenvolvido para o comedouro automatizado.
 
 <p align="center">
-  <img src="./imagem3.jpeg" alt="Montagem do circuito no simulador Tinkercad" width="600"><br>
+  <img src="./imagem3.jpeg" alt="Montagem do circuito no simulador Tinkercad"><br>
   <strong>Figura 03</strong> - Fluxograma do processo de funcionamento<br>
   <em>Fonte: Elaborado pelos autores.</em>
 </p>
@@ -276,7 +276,7 @@ As bibliotecas “Wire.h” e “LiquidCrystal_I2C.h” foram utilizadas para es
 ## 3. RESULTADOS ESPERADOS
 
 <p align="center">
-  <img src="./imagem4.jpeg" alt="Montagem do circuito no simulador Tinkercad" width="600"><br>
+  <img src="./imagem4.jpeg" alt="Montagem do circuito no simulador Tinkercad"><br>
   <strong>Figura 04</strong> - Simulação do funcionamento no Tinkercad<br>
   <em>Fonte: www.tinkercad.com</em>
 </p>
