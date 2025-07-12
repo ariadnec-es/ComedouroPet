@@ -316,8 +316,20 @@ Anexo com link para o projeto no Tinkercad :
 
 Vídeos de Simulação: 
  - Simulação Manual.mp4
+
+## Demonstração do Projeto
+
+- Simulação Manual.mp4
+<p align="center">
+  <a href="https://youtu.be/NX8mIZvv0_s" target="_blank">
+    <img src="https://img.youtube.com/vi/NX8mIZvv0_s/0.jpg" alt="Miniatura do vídeo">
+  </a>
+</p>
+
+
  - Simulação Automática.mp4
-
-
-
-
+<p align="center">
+  <a href="https://youtu.be/idfrjFR6aVM" target="_blank">
+    <img src="https://img.youtube.com/vi/NX8mIZvv0_s/0.jpg" alt="Miniatura do vídeo">
+  </a>
+</p>
